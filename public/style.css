@@ -100,3 +100,19 @@ h1{
     }
     
 }
+
+@media only screen and (max-width: 479px)
+{
+    * {
+        font-size: medium ;
+    }
+        .heading0{
+            width : 90% ;
+            margin : 5% ;
+            margin-top: 2% ;
+            margin-bottom: 2%;
+            float:none ;
+            font-size: x-large;
+        }
+        
+}
